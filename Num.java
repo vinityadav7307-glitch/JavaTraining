@@ -8,7 +8,9 @@ public class Num {
         if (n % 2 == 0){
         System.out.println("even");
     }
-    else
+    else{
         System.out.println("Odd");
+    }
+    sc.close();
     }
 }
