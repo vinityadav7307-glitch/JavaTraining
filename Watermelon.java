@@ -11,5 +11,6 @@ public class Watermelon {
         }else{
             System.out.println("No");
         }
+        sc.close();
     }
 }
