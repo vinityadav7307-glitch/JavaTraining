@@ -16,9 +16,7 @@ public class GFG {
 
         // accessing the elements of the specified array
         for (int i = 0; i < arr.length; i++)
-            System.out.println("Element at " + i + " : { "
-                               + arr[i].roll_no + " "
-                               + arr[i].name+" }");
+            System.out.println("Element at " + i + " : "+ arr[i].roll_no + " "  + arr[i].name+" ");
     }
 }
 class Student {
