@@ -19,7 +19,7 @@ class Detail {
 class MarkComparator implements Comparator<Detail> {
 
     public int compare(Detail s1, Detail s2) {
-        return s1.id - s2.id;
+        return s2.id - s1.id;
     }
 }
 
