@@ -50,7 +50,7 @@ public class MyStack {
         stk.pop();
         stk.pop();
         stk.pop();
-        //System.out.println(stk);
+        System.out.println(stk);
 
         stk.push("Anurag");
         stk.push("Vinit");
