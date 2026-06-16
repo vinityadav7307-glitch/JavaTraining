@@ -21,7 +21,7 @@ public class RecursionBackTracking {
     }
 
     public static void main(String[] args) {
-        int arr[] = {1, 2, 3, 4};
+        int arr[] = {1, 2, 3};
         helper(0, arr.length, arr, new ArrayList<>());
     }
 }
