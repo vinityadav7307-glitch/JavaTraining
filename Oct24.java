@@ -13,6 +13,16 @@
 import java.util.*;
 
 public class Oct24 {
+    public static void main(String[] args) {
+        Manager m = new Manager();
+        m.name = "Vinit";
+        m.age = 20;
+        m.empId= 84;
+        m.department = "CSE";
+
+        m.printAllDetails();
+
+    }
 
 }
 
