@@ -1,3 +1,4 @@
+//Write a Java program to create an ArrayList of integers, insert 5 numbers, and print all elements.
 package Practical;
 import java.util.ArrayList;
 
