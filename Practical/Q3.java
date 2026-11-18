@@ -1,3 +1,4 @@
+//Given an ArrayList of integers, count how many numbers are even and how many are odd.
 package Practical;
 
 import java.util.*;
