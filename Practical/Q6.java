@@ -1,3 +1,5 @@
+//Create a HashMap and Display Entries
+//Create a HashMap containing three student names and their marks. Display each key-value pair.
 package Practical;
 
 import java.util.HashMap;
